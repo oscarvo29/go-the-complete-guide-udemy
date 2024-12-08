@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "go-essentials"
+		},
+		{
+			"path": "profit-calculator"
+		},
+		{
+			"path": "working-with-packages"
+		},
+		{
+			"path": "understanding-pointers"
+		},
+		{
+			"path": "structs"
+		},
+		{
+			"path": "structs-practice"
+		},
+		{
+			"path": "working-with-lists"
+		},
+		{
+			"path": "price-calculator"
+		},
+		{
+			"path": "api-project"
+		}
+	],
+	"settings": {}
+}
